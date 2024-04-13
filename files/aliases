@@ -1,0 +1,10 @@
+alias sudo='sudo '
+
+alias ll='ls -lh'
+alias la='ls -lAh'
+
+alias c=clear
+
+# use these aliases only if nala is installed
+alias apt=nala
+alias apt-get=apt
