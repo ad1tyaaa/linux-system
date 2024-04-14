@@ -15,7 +15,7 @@ check_success() {
         echo ""
     else
         echo "There was some error. Closing the script."
-        exit
+        exit 1
     fi
 }
 
