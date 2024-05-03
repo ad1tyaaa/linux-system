@@ -3,10 +3,10 @@
 
 **`info :`**
 
-> [!important] DebPod 
-OS : Debian 12.5
-DE : GNOME 43.9
-Kernel: 6.1.0-18-amd64
+> DebPod 
+> OS : Debian 12.5
+> DE : GNOME 43.9
+> Kernel: 6.1.0-18-amd64
 
 ***
 # Applications
