@@ -11,6 +11,8 @@
 > 
 > Kernel: 6.1.0-18-amd64
 
+![here](../images/neofetch.png)
+
 ***
 # Applications
 
