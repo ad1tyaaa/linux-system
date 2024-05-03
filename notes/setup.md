@@ -3,7 +3,7 @@
 
 **`info :`**
 
-> DebPod
+> **DebPod**
 > 
 > OS : Debian 12.5
 > 
