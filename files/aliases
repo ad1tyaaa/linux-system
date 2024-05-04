@@ -7,4 +7,3 @@ alias c=clear
 
 # use these aliases only if nala is installed
 alias apt=nala
-alias apt-get=apt
